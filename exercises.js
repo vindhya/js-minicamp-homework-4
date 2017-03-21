@@ -45,7 +45,6 @@ function forEach(arr, cb) {
 		cb(value);
 	});
 
-	// *** check if i'm actually supposed to use forEach for this solution ***
 }
 
 function map(arr, cb) {
